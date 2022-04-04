@@ -50,6 +50,6 @@ Submitting bug fixes and enhancements is easy and is very appreciated:
 ### Multiple Pull Requests and Edits ###
 When submitting pull requests, it is extremely helpful to isolate the changes you want included from other unrelated changes you may have made to your fork of Typesetter. The easiest way to accomplish this is to use a different branch for each pull request. There are a number of ways to create branches within your fork, but GitHub makes the process very easy:
 
-1. Start by finding the file you want to edit in Typesetter's code repository at https://github.com/Typesetter/Typesetter.
+1. Start by finding the file you want to edit in Typesetter's code repository at https://github.com/Shad0wGlitch/Typesetter.
 2. Once you have located the file, navigate to the code view and click "Edit". For example, if you want to change the /include/common.php file, the "Edit" button would appear on this page: https://github.com/Shad0wGlitch/Typesetter/blob/master/include/common.php
 3. Now, edit the file as you like then click "Propose File Change"
