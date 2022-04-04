@@ -31,12 +31,12 @@ You can find more detailed installation information on [GitHub](https://www.gith
 
 
 ## Contribute ##
-Submitting bug fixes and enhancements is easy:
+Submitting bug fixes and enhancements is easy and is very appreciated:
 
 1. Log in to GitHub
 
 2. Fork the Typesetter Repository
-  * https://github.com/Typesetter/Typesetter
+  * https://github.com/Shad0wGlitch/Typesetter
   * Click "Fork" and you'll have your very own copy of the Typesetter source code at https://github.com/{your-username}/Typesetter
 
 3. Edit files within your fork.
