@@ -9,6 +9,7 @@
 * [Typesetter Demo](https://www.typesettercms.com/Demo)
 * [Typesetter Forum](https://www.typesettercms.com/Forum)
 * [Typesetter Wiki](https://github.com/Shad0wGlitch/Typesetter/wiki)
+* [Original Typesetter](https://github.com/Typesetter/Typesetter) [OLD]
 
 
 ## Requirements ##
