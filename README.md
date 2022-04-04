@@ -1,7 +1,7 @@
 
 <p align="center"><img src="/include/imgs/typesetter/ts-logo-color-100x100px-min.png?raw=true"/></p>
 <h1 align="center">Typesetter CMS </h1>
-<p align="center">Open source CMS written in PHP focused on ease of use with true WYSIWYG editing and flat-file storage.<br/><br/></p>
+<p align="center">The best Open source CMS written in PHP focused on ease of use with true WYSIWYG editing and flat-file storage.<br/><br/></p>
 
 
 * [Typesetter Home](https://github.com/Shad0wGlitch/Typesetter)
@@ -14,6 +14,8 @@
 
 ## Requirements ##
 * PHP 7.1+ (Recommended) as of Typesetter 5.1.1-b1 (soon 6.0)
+* Apache/ngix
+* .htaccess Module Enabled (in some servers maybe it is not activated so it will give error).
 
 
 ## Installation ##
