@@ -14,7 +14,7 @@
 
 ## Requirements ##
 * PHP 7.1+ (Recommended) as of Typesetter 5.1.1-b1 (soon 6.0)
-* Apache/ngix
+* Apache/ngix server
 * .htaccess Module Enabled (in some servers maybe it is not activated so it will give error).
 
 
