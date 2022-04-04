@@ -4,28 +4,27 @@
 <p align="center">Open source CMS written in PHP focused on ease of use with true WYSIWYG editing and flat-file storage.<br/><br/></p>
 
 
-* [Typesetter Home](https://www.typesettercms.com)
-* [Typesetter Download](https://www.typesettercms.com/Download)
+* [Typesetter Home](https://github.com/Shad0wGlitch/Typesetter)
+* [Typesetter Download](https://github.com/Shad0wGlitch/Typesetter)
 * [Typesetter Demo](https://www.typesettercms.com/Demo)
-* [Typesetter Documentation](https://www.typesettercms.com/Docs)
 * [Typesetter Forum](https://www.typesettercms.com/Forum)
-* [Typesetter Wiki](https://github.com/Typesetter/Typesetter/wiki)
+* [Typesetter Wiki](https://github.com/Shad0wGlitch/Typesetter/wiki)
 
 
 ## Requirements ##
-* PHP 5.6+ as of Typesetter 5.1.1-b1
+* PHP 7.1+ (Recommended) as of Typesetter 5.1.1-b1 (soon 6.0)
 
 
 ## Installation ##
-1. Download the latest stable release of Typesetter from TypesetterCMS.com
+1. Download the latest stable release from here (Release)
 
-2. Upload the extracted contents to your server
+2. Upload the extracted contents to your server (in your Public folder)
 
 3. Using your web browser, navigate to the folder you just uploaded the unzipped contents to
 
 4. Complete the installation form and submit
 
-You can find more detailed installation information on [TypesetterCMS.com](https://www.typesettercms.com/Docs/Installation)
+You can find more detailed installation information on [GitHub](https://www.github.com/Shad0wGlitch/Typesetter/)
 
 
 ## Contribute ##
@@ -49,5 +48,5 @@ Submitting bug fixes and enhancements is easy:
 When submitting pull requests, it is extremely helpful to isolate the changes you want included from other unrelated changes you may have made to your fork of Typesetter. The easiest way to accomplish this is to use a different branch for each pull request. There are a number of ways to create branches within your fork, but GitHub makes the process very easy:
 
 1. Start by finding the file you want to edit in Typesetter's code repository at https://github.com/Typesetter/Typesetter.
-2. Once you have located the file, navigate to the code view and click "Edit". For example, if you want to change the /include/common.php file, the "Edit" button would appear on this page: https://github.com/Typesetter/Typesetter/blob/master/include/common.php
+2. Once you have located the file, navigate to the code view and click "Edit". For example, if you want to change the /include/common.php file, the "Edit" button would appear on this page: https://github.com/Shad0wGlitch/Typesetter/blob/master/include/common.php
 3. Now, edit the file as you like then click "Propose File Change"
